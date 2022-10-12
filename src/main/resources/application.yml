@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: local
+    group:
+      local: local,security
+
+external:
+  open-data:
+    hostname: apis.data.go.kr
