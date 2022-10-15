@@ -1,2 +1,13 @@
+logging:
+  level:
+    root: debug
+
+feign:
+  client:
+    config:
+      default:
+        loggerLevel: full
+        
+
 test-value:
   something: "something"

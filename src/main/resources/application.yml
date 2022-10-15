@@ -6,4 +6,4 @@ spring:
 
 external:
   open-data:
-    hostname: apis.data.go.kr
+    base-url: http://apis.data.go.kr
